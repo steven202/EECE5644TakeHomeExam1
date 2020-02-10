@@ -1,3 +1,6 @@
+%%%%%% The code is partially borrowed from the shared folder provided by the Professor Deniz.
+%%%%%% Some of the code is from volunteers in the shared folder. 
+%%%%%% Many thanks to professor and volunteers. 
 function g = evalGaussian(x,mu,Sigma)
 % Evaluates the Gaussian pdf N(mu,Sigma) at each coumn of X
 [n,N] = size(x);

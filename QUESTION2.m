@@ -1,3 +1,6 @@
+%%%%%% The code is partially borrowed from the shared folder provided by the Professor Deniz.
+%%%%%% Some of the code is from volunteers in the shared folder. 
+%%%%%% Many thanks to professor and volunteers. 
 % Expected risk minimization with 2 classes
 clear; close all; clc;
 
